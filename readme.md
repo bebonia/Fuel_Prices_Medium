@@ -11,7 +11,8 @@ Please ensure the following packages are installed within your Python Environmen
 - Plotly
 
 ## Notes
-The data import process (data_prep()) may take a long time due to the large amount of rows to be parsed (approx 1mil+)
+- The data import process (data_prep()) may take a long time due to the large amount of rows to be parsed (approx 1mil+)
+- Plotly viz will  not load in Github/nbviwer, will need to download repo on PC and view (viz can be seen on article)
 
 
 ## Data Source
