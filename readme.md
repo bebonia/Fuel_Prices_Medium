@@ -3,6 +3,10 @@
 ## Description
 This github repo contains all the necessary files and notebook to recreate the analysis performed in [my article](https://medium.com/@bienebonia/petrol-prices-in-nsw-a-shallow-dive-6fc01158c370)
 
+## Motivation
+This project was made for the Data Scientist Nanodegree as a requirement for project 1. 
+Fuel prices have always been a point of interest for me and this is the perfect to do a shallow dive in the area and extract some useful insights.
+
 ## Installation
 Please ensure the following packages are installed within your Python Environment:
 - Pandas
