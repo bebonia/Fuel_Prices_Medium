@@ -1,4 +1,5 @@
 # Petrol Prices in NSW - A Shallow Dive
+![](https://images.unsplash.com/photo-1560005262-823d9a06c851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80 | width=100)
 
 # Description
 This github repo contains all the necessary files and notebook to recreate the analysis performed in [my article](https://medium.com/@bienebonia/petrol-prices-in-nsw-a-shallow-dive-6fc01158c370)
@@ -19,7 +20,7 @@ Please ensure the following packages are installed within your Python Environmen
 - Plotly viz will  not load in Github/nbviwer, will need to download repo on PC and view (viz can be seen on article)
 
 
-## Description of Files
+# Description of Files
 ### Files in Raw_Data e.g 'price_history_apri2019'
 - Each file contains the monthly fuel data for NSW
 - Data ranges from July 2018 to July 2020
