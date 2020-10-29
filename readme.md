@@ -22,9 +22,9 @@ The aim of this analysis to understand what drives the cost of petrol in NSW and
 
 Speficially the questions we are looking to answer are:
 
-#### How was petrol prices changed over time in NSW?
-#### Which brand provides the cheapest P98 petrol?
-#### Where in NSW can we get the cheapest P98 petrol?
+- #### How was petrol prices changed over time in NSW?
+- #### Which brand provides the cheapest P98 petrol?
+- #### Where in NSW can we get the cheapest P98 petrol?
 
 By answering the above three questions, a business can plan their strategy in minimizing the cost due to petrol in maintaining their vehicles.
 
