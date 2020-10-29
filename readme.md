@@ -34,7 +34,18 @@ Data to answer the questions were obtained from a dataset provided by the NSW go
 
 The data provided  is split monthly from July 2020 to July 2018.
 
-Each dataset is stored in a excel spreadsheet and in the following columns:
+Each dataset is stored in a excel spreadsheet and contains the following columns:
+
+| Column Name        | Description                                             |
+|--------------------|---------------------------------------------------------|
+| ServiceStationName | The name of the service station where the fuel was sold |
+| Address            | The address where the service station is located        |
+| Suburb             | The suburb where the service station is located         |
+| Postcode           | The postcode where the service station is located       |
+| Brand              | The brand of the service station                        |
+| FuelCode           | Type of fuel sold                                       |
+| PriceUpdatedDate   | The date and time which the price was recorded          |
+| Price              | The price in cents of the fuel                          |
 
 
 
