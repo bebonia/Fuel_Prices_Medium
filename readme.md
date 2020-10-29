@@ -1,7 +1,7 @@
 # Petrol Prices in NSW - A Shallow Dive
-![](https://images.unsplash.com/photo-1560005262-823d9a06c851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80 | width=100)
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
+
+<img src="https://images.unsplash.com/photo-1560005262-823d9a06c851?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=701&q=80" width="100" />,
 
 # Description
 This github repo contains all the necessary files and notebook to recreate the analysis performed in [my article](https://medium.com/@bienebonia/petrol-prices-in-nsw-a-shallow-dive-6fc01158c370)
